@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1400956876 source:d:\codeblocks\beacongenerator\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<fstream>
+	<sstream>
+
